@@ -1,0 +1,156 @@
+.my-style .button
+.my-style {
+    margin-left:auto;
+    margin-right:auto;
+    max-width: 100%;
+    padding: 8px 15px;
+    border:1px solid #d0d1d5;
+    background: #f5f5f5;
+	font: 14px 'Open Sans';
+}
+
+.my-style h3 {
+    font-size: 16px;
+    padding: 2px 10px 6px 10px;
+    display: block;
+    margin: -10px -15px 10px -10px;;
+    color: #333333;
+    font-weight: bold;
+    text-align: center;
+}
+
+.my-style .submit {
+    border-top:1px solid #d0d1d5;
+    margin: 10px -15px -10px -10px;
+}
+
+.my-style h1 {
+    font-size: 25px;
+    padding: 10px;
+    display: block;
+    border-bottom:1px solid #d0d1d5;
+    border-top:1px solid #d0d1d5;
+    margin: -10px -15px 30px -10px;
+    color: #333333;
+}
+.my-style h1>span {
+    text-transform: capitalize;
+    display: block;
+    font-size: 14px;
+    color: #333333;
+}
+.my-style label {
+    display: block;
+    margin: 0px;
+}
+.my-style label>span {
+    float: left;
+    width: 30%;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+    color: #333333;
+    font-weight: bold;
+}
+
+.my-style label > img {
+    margin-top: 0;
+    margin-bottom: 14px;
+    box-shadow: 1px 1px 5px #B6B6B6;
+    border-radius: 3px;
+    text-shadow: 1px 1px 1px #9E3F3F;
+}
+
+.my-style .block-error {
+    width: 61.8%;
+    margin-left: 32%;
+    margin-top: -8px;
+    padding-bottom: 15px;
+    color: #f60712;
+    font-weight: bold;
+}
+
+.my-style input[type="text"],
+.my-style input[type="email"],
+.my-style input[type="url"],
+.my-style input[type="password"],
+.my-style input[type="number"],
+.my-style textarea,
+.my-style select {
+    border: 1px solid #d0d1d5;
+    color: #333333;
+    height: 30px;
+    margin-bottom: 16px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 3px 9px 3px 9px;
+    width: 61.8%;
+    font-size: 12px;
+    line-height:15px;
+    box-shadow: inset 0px 1px 4px #ECECEC;
+    -moz-box-shadow: inset 0px 1px 4px #ECECEC;
+    -webkit-box-shadow: inset 0px 1px 4px #ECECEC;
+}
+
+.my-style input[type="file"] {
+    margin-bottom: 16px;
+    padding: 6px 9px 3px 0;
+}
+
+.my-style textarea{
+    padding: 7px 9px;
+    width: 61.8%;
+}
+.my-style select {
+    appearance:none;
+    -webkit-appearance:none; 
+    -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+    width: 65%;
+    height: 38px;
+    line-height: 25px;
+    cursor: pointer;
+}
+.my-style textarea{
+    height:100px;
+}
+
+.my-style .button {
+    margin-top: 10px;
+    background: #4b8df8;
+    font-weight: bold;
+    border: none;
+    padding: 8px 15px;
+    color: #FFF;
+    box-shadow: 1px 1px 3px #d0d1d5;
+    cursor: pointer;
+	font: 14px 'Open Sans';
+}
+
+.my-style .button:hover {
+    background: #0e46a2
+}
+
+.my-style .warning {
+    margin-top: 10px;
+    background: #08c12f;
+    font-weight: bold;
+    border: none;
+    padding: 15px 25px 15px 25px;
+    color: #FFF;
+    box-shadow: 1px 1px 3px #d0d1d5;
+    border-radius: 3px;
+    text-shadow: 1px 1px 1px #141414;
+    cursor: pointer;
+}
+
+.my-style .warning:hover {
+    background: #039221;
+}
+
+@media screen and (max-width:360px) {
+.my-style label > span { float: none; display: block; width: 100%; text-align: left; padding-right: 10px;}
+.my-style input[type="text"], .my-style input[type="email"], .my-style input[type="url"], .my-style input[type="password"], .my-style input[type="number"], .my-style textarea, .my-style select { width: 90%;}
+}

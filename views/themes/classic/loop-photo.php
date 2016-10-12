@@ -1,0 +1,25 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');?>
+<section id="main-content">
+	<div class="widget-title">
+		<h4><i class="icon-picture"></i> GALLERY PHOTO</h4>
+		<span class="views-all"><a href="<?=site_url('home/album');?>">Indeks</a></span>
+	</div>
+	<div class="widget">
+		<?php if ($query->num_rows() > 0) {?>
+		<h5 style="font-size:14px;font-weight:bold;margin:10px 0 10px 4px;"><?=strtoupper($title);?></h5>
+		<ul id="gallery-photo" class="clearfix">
+			<?php foreach ($query->result() as $row) {?>
+			<li>
+				<a href="<?=base_url('assets/gallery/' . $row->photo_original);?>" rel="prettyPhoto[gallery-photo]" class="tips" original-title="<?=$row->photo_title;?>"><img width="120px" height="120px" src="<?=base_url('assets/gallery/thumb/' . $row->photo_thumb);?>" alt="<?=$row->photo_title;?>"></a>
+			</li>
+			<?php } ?>
+		</ul>
+
+		<?php } else {?>
+			<div class="alert alert-info">
+				Photo tidak ditemukan !
+			</div>
+		<?php } ?>
+	</div>
+</section>
+<?php $this->load->view('themes/' . $this->setting['themes'] . '/aside-secondary');?>

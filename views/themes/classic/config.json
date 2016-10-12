@@ -1,0 +1,47 @@
+{
+	"theme_name": "Classic",
+	"theme_uri": "",
+	"license": "License: GNU General Public License v2 or later",
+	"license_uri": "License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+	"author": "Anton Sofyan",
+	"author_uri": "https://facebook.com/antonsofyan",
+	"version": "1.0",
+	"config": {
+		"header": {
+			"width": 960,
+			"height": 157
+		},
+		"banner": {
+			"width": 248,
+			"height": 0
+		},
+		"pengumuman": {
+			"width": 446,
+			"height": 438,
+			"thumb": {
+				"width": 150,
+				"height": 100
+			}
+		},
+		"prestasi": {
+			"width": 200,
+			"height": 200
+		},
+		"posts": {
+			"width": 446,
+			"height": 438,
+			"thumb": {
+				"width": 152,
+				"height": 152
+			}
+		},
+		"gallery": {
+			"width": 720,
+			"height": 0,
+			"thumb": {
+				"width": 120,
+				"height": 120
+			}
+		}
+	}
+}

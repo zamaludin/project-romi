@@ -1,0 +1,478 @@
+a:2:{s:6:"expire";i:1476200314;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Inorobo Robotic School</title>
+	<meta name="description" content="inorobo robotic school bandung, kelas privat dan menerima eskul disekolah">
+	<meta name="keywords" content="Sekolah robotik, robotik bandung, eskul robotik, privat robotik, inorobo //, http://inorobo.com">
+	<meta name="author" content="inorobo.com">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+	<link rel="shortcut icon" href="http://localhost/popo/assets/images/icon.png">
+	<link href="http://localhost/popo/views/themes/default/assets/plugin/slider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="http://localhost/popo/views/themes/default/assets/plugin/prettyphoto/css/prettyphoto.css" rel="stylesheet" type="text/css" />
+	<link href="http://localhost/popo/views/themes/default/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="http://localhost/popo/views/themes/default/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="http://localhost/popo/views/themes/default/assets/css/form.css" rel="stylesheet" type="text/css" />
+	<link href="http://localhost/popo/views/themes/default/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<script src="http://localhost/popo/assets/backend/js/jquery.min.js" type="text/javascript"></script>
+	<script src="http://localhost/popo/views/themes/default/assets/js/jquery.accordion.source.js" type="text/javascript"></script>
+	<script src="http://localhost/popo/views/themes/default/assets/plugin/slider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="http://localhost/popo/views/themes/default/assets/plugin/prettyphoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="http://localhost/popo/views/themes/default/assets/js/plugins.library.js" type="text/javascript"></script>
+	<script src="http://localhost/popo/views/themes/default/assets/js/init.js" type="text/javascript"></script>
+	<script src="http://localhost/popo/assets/js/action.js" type="text/javascript"></script>
+</head>
+<body>
+<style type="text/css">
+.f-nav{  /* To fix main menu container */
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+</style>
+<script type="text/javascript">
+$("document").ready(function($){
+	$(".accordion").slideUp();
+	$('ul').accordion();
+	$("#openmobi").click(function(){
+		$(".accordion").slideToggle();
+  	});
+
+	var nav = $('#primary-navigator');
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 125) {
+			nav.addClass("f-nav");
+		} else {
+			nav.removeClass("f-nav");
+		}
+	});
+});
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+	<section id="top-bar" class="clearfix">
+		<div class="container">
+			<ul id="top-nav" class="clearfix">
+				<li id="clock"></li>
+				<li id="rss-feed"><a href="http://localhost/popo/home/rss" target="_blank">RSS</a></li>
+				<li id="subscribe"><a href="http://localhost/popo/home/peta_situs">Peta Situs</a></li>
+			</ul>
+		</div>
+	</section>
+	<header id="primary-header">
+		<div class="header">
+		    <div class="logo"> 
+			    <a href="http://localhost/popo/"><img src="http://localhost/popo/assets/images/26262652bab461a9e177d6264dbdd372.png" alt="LOGO"/></a>
+			</div>
+			<div class="social">
+			    <div class="icon">
+				    				        <a href="http://facebook.com" target="_blank">
+						    <i class="fa fa-facebook"></i>
+						</a>
+				    				    				        <a href="@inorobo" target="_blank">
+						    <i class="fa fa-twitter"></i>
+						</a>
+				    				    				        <a href="enikdr@gmail.com" target="_blank">
+						    <i class="fa fa-google-plus"></i>
+						</a>
+				    				    				        <a href="http://youtube.com" target="_blank">
+						    <i class="fa fa-youtube"></i>
+						</a>
+				    				</div>
+				<div class="schinfo">
+			        <div class="sch inleft">
+				    Alamat : Ruko MIM Blok E/2 Soekarno Hatta No.590 Bandung.				    </div>
+				    <div class="sch incenter">
+				    +62 852 942 487 83				    </div>
+			    </div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</header>
+    <div id="fixed-wrapper">
+	
+	<div class="mobimenu">
+	        <div id="openmobi"><span>MENU</span></div>
+            <ul class="accordion">
+			    <li >
+				    <a href="http://localhost/popo/">HOME</a>
+				</li>
+				<li class="level1"><a href="http://localhost/popo/#">ABOUT US</a><ul><li '><a href='http://localhost/popo/home/readmore/6/company-profile'>COMPANY PROFILE</a></li></ul></li><li class="level1"><a href="http://localhost/popo/#">PROG. BELAJAR</a><ul><li '><a href='http://localhost/popo/home/readmore/8/ekskul'>EKSKUL</a></li><li '><a href='http://localhost/popo/home/readmore/10/online'>ONLINE</a></li><li '><a href='http://localhost/popo/home/readmore/9/private'>PRIVATE</a></li></ul></li>				<li class="current"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="http://localhost/popo/home/ptk">DIREKTORI PTK</a></li>
+						<li><a href="http://localhost/popo/home/siswa">DIREKTORI SISWA</a></li>
+						<li class="level2"><a href="#">DIREKTORI PRESTASI</a>
+							<ul>
+								<li><a href="http://localhost/popo/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="http://localhost/popo/home/prestasi_ptk">PRESTASI PTK</a></li>
+								<li><a href="http://localhost/popo/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+								<li class="level1"><a href="#">PPDB 2016</a>
+					<ul>
+						<li><a href="http://localhost/popo/ppdb-sd/registration">DAFTAR SEKARANG</a></li>
+						<li><a href="http://localhost/popo/ppdb-sd/check">HASIL SELEKSI</a></li>
+						<li><a href="http://localhost/popo/ppdb-sd/cetak_formulir">CETAK FORMULIR</a></li>
+						<li><a href="http://localhost/popo/ppdb-sd/statistik">GRAFIK PPDB</a></li>
+						<li><a href="http://localhost/popo/formulir_ppdb/index">DOWNLOAD FORMULIR</a></li>
+					</ul>
+				</li>
+				
+								<li ><a href="http://localhost/popo/home/agenda_sekolah">AGENDA</a></li>
+				<li class="level1"><a href="#">GALLERY</a>
+					<ul>
+						<li><a href="http://localhost/popo/home/album">GALLERY PHOTO</a></li>
+						<li><a href="http://localhost/popo/home/video">GALLERY VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="http://localhost/popo/home/hubungi_kami">HUBUNGI KAMI</a></li>
+			
+			</ul>
+	</div>
+	
+	<nav id="primary-navigator">
+		<div class="container">
+			<ul id="primary-navigator-list" class="tree-menu">
+				<li ><a href="http://localhost/popo/">HOME</a></li>
+				<li ><a href="http://localhost/popo/#">ABOUT US</a><ul><li '><a href='http://localhost/popo/home/readmore/6/company-profile'>COMPANY PROFILE</a></li></ul></li><li ><a href="http://localhost/popo/#">PROG. BELAJAR</a><ul><li '><a href='http://localhost/popo/home/readmore/8/ekskul'>EKSKUL</a></li><li '><a href='http://localhost/popo/home/readmore/10/online'>ONLINE</a></li><li '><a href='http://localhost/popo/home/readmore/9/private'>PRIVATE</a></li></ul></li>				<li class="current"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="http://localhost/popo/home/ptk">DIREKTORI TRAINER</a></li>
+						<li><a href="http://localhost/popo/home/siswa">DIREKTORI SISWA</a></li>
+					</ul>
+				</li>
+				
+				
+								<li ><a href="#">PPDB 2016</a>
+					<ul>
+						<li><a href="http://localhost/popo/ppdb-sd/registration">DAFTAR SEKARANG</a></li>
+						<li><a href="http://localhost/popo/ppdb-sd/check">HASIL SELEKSI</a></li>
+						<li><a href="http://localhost/popo/ppdb-sd/cetak_formulir">CETAK FORMULIR</a></li>
+						<li><a href="http://localhost/popo/ppdb-sd/statistik">GRAFIK PPDB</a></li>
+						<li><a href="http://localhost/popo/formulir_ppdb/index">DOWNLOAD FORMULIR</a></li>
+					</ul>
+				</li>
+				
+								<li ><a href="#">GALLERY</a>
+					<ul>
+						<li><a href="http://localhost/popo/home/album">GALLERY PHOTO</a></li>
+						<li><a href="http://localhost/popo/home/video">GALLERY VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="http://localhost/popo/home/hubungi_kami">HUBUNGI KAMI</a></li>
+			</ul>
+		</div>
+	</nav>
+
+    </div>
+
+    <section id="content-wrapper" class="container">
+    <section id="main-content">
+	<div class="widget-title">
+		<h4>PENDIDIK DAN TENAGA KEPENDIDIKAN INOROBO ROBOTIC SCHOOL <i class="fa fa-user"></i></h4>
+	</div>
+	<div class="widget">
+				<table class="table">
+			<thead>
+				<th>NO</th>
+				<th>NIK</th>
+				<th>NIP</th>
+				<th>NUPTK</th>
+				<th>NAMA</th>
+				<th>JENIS KELAMIN</th>
+				<th>&nbsp;</th>
+			</thead>
+			<tbody>
+								<tr>
+					<td>1</td>
+					<td>425</td>
+					<td>inorobo</td>
+					<td>62</td>
+					<td>Yusran</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#2"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="http://localhost/popo/assets/ptk/c6d1cadfd4a81d313f3189b41c6601e3.png">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 425					        			<br>
+					        			<b>NIP</b> : inorobo					        			<br>
+					        			<b>NUPTK</b> : 62					        			<br>
+					        			<b>Status Kepegawaian</b> : Trainer Privat					        			<br>
+					        			<b>Jenis PTK</b> : Lainnya					        			<br>
+					        			<b>Nama</b> : Yusran					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : jl. kopo Gg. lapang III no.16					        			<br>
+					        			<b>Telp</b> : +628983875219					        			<br>
+					        			<b>Email</b> : yuz.antiexe@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Bandung, , 20 Juni 1992					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Manajemen Sumber Daya Manusia					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2</td>
+					<td>123</td>
+					<td>inorobo1</td>
+					<td>1234</td>
+					<td>Tiara khiyaarunnisa</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#3"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="http://localhost/popo/assets/ptk/c74e4bfd57a7a0570450c54a9beb44c5.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 123					        			<br>
+					        			<b>NIP</b> : inorobo1					        			<br>
+					        			<b>NUPTK</b> : 1234					        			<br>
+					        			<b>Status Kepegawaian</b> : Trainer Privat					        			<br>
+					        			<b>Jenis PTK</b> : Guru Basic Mechanic					        			<br>
+					        			<b>Nama</b> : Tiara khiyaarunnisa					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : jl. Nagrog1 no.5 rt/tw 03/07 Ujungb berung BAndung					        			<br>
+					        			<b>Telp</b> : +628112319794					        			<br>
+					        			<b>Email</b> : tiara.inorobo@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Bandung, , 09 Juli 1993					        			<br>
+					        			<b>Pendidikan terakhir</b> : SMA / sederajat					        			<br>
+					        			<b>Jurusan</b> : Teknik Kimia					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>3</td>
+					<td>1234</td>
+					<td>inorobo1w</td>
+					<td>12344</td>
+					<td>Inorobo Robotics School</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#4"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="http://localhost/popo/assets/ptk/0cb527a0ed442286904d6c6cb73b56d9.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 1234					        			<br>
+					        			<b>NIP</b> : inorobo1w					        			<br>
+					        			<b>NUPTK</b> : 12344					        			<br>
+					        			<b>Status Kepegawaian</b> : Admin					        			<br>
+					        			<b>Jenis PTK</b> : Lainnya					        			<br>
+					        			<b>Nama</b> : Inorobo Robotics School					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : Ruko Inorobo Robotic School MIM Blok E/2 Soekarno Hatta No.590 Bandung.					        			<br>
+					        			<b>Telp</b> : +62 852 942 487					        			<br>
+					        			<b>Email</b> : inorobogc@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Bandung, , 06 Agustus 2010					        			<br>
+					        			<b>Pendidikan terakhir</b> : Lainnya					        			<br>
+					        			<b>Jurusan</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+							</tbody>
+		</table>
+
+					</div>
+</section>
+<script src="http://localhost/popo/views/themes/default/assets/moodal/js/bootstrap.js"></script>
+<link href="http://localhost/popo/views/themes/default/assets/moodal/css/bootstrap.css" rel="stylesheet">
+<aside id="aside-secondary">
+	 	 <div class="widget-title">
+		  <h4><span class="ja ji">Mengapa Harus Robotic?</span> <i class="fa fa-microphone"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <ul class="post-list">
+				<li class="clearfix" style="padding:0;">
+				    <div class="sambut">
+					    					    <img width="100%" title="Inorobo Robotics School" src="http://localhost/popo/assets/ptk/0cb527a0ed442286904d6c6cb73b56d9.jpg" alt="image" style="margin-top:0;"/>
+					    					</div>
+					 <p>Kemajuan ilmu pengetahuan dan teknologi khususnya teknologi mekatronika dan robotika saat ini sedemikian pesatnya. Hal ini dap...</p>
+					 <p><a class="samkep" href="http://localhost/popo/home/why_robotic">Selengkapnya..<i class="fa fa-angle-right"></i></a></p>
+				</li>
+		  </ul>
+	 </div>
+	 
+	 <div class="widget-title">
+		  <h4><span>JAJAK PENDAPAT</span> <i class="fa fa-star"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <div id="message-polling" style="display:none;"></div>
+		  <img id="loading-polling" style="display:none;" src="http://localhost/popo/assets/loading.gif">
+		  <form action="http://localhost/popo/home/polling" class="form-inline" role="form" id="form-polling" method="post" accept-charset="utf-8">
+				<p>Apakah website ini bagus ?</p>
+								<label for="1">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="1"/> Sangat Bagus				</label>
+								<label for="2">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="2"/> Bagus				</label>
+								<label for="3">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="3"/> Cukup Bagus				</label>
+								<label for="4">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="4"/> Kurang menarik				</label>
+								<div class="botpoll">
+				    <button id="submit-polling" type="submit" value="submit" name="submit">SUBMIT</button><a class="jawaban" href="http://localhost/popo/home/result_polling">Lihat Jawaban</a>
+				</div>
+		  </form>	 </div>
+	 	 
+	 		<div class="widget-title">
+		<h4><span>KATEGORI</span> <i class="fa fa-folder-open"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="http://localhost/popo/home/category/2">Belajar robotik <span>2</span></a></li><li><a href="http://localhost/popo/home/category/1">lomba robotic <span>1</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>ARSIP 2016</span> <i class="fa fa-calendar-check-o"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="http://localhost/popo/home/archive/07/2016" title="Arsip berita bulan Juli">Juli <span>3</span></a></li>		</ul>
+	</div>
+	
+	
+	
+	<div class="widget-title">
+		<h4><span>YAHOO MESSANGER</span> <i class="fa fa-comment"></i></h4>
+	</div>
+	<div class="widget">
+		<a href="ymsgr:sendIM?inorobo"> <img src="http://opi.yahoo.com/online?u=inorobo&m=g&t=14&l=us"/></a>
+	</div>
+
+	 <div class="widget-title">
+		  <h4><span>KAMI DI FACEBOOK</span> <i class="fa fa-facebook"></i></h4>
+	 </div>
+	 <div class="widget" style="background:#fff;">
+		  <div class="fb-like-box"
+				data-href="http://facebook.com"
+				data-height="350"
+				data-width="250"
+				data-colorscheme="light"
+				data-show-faces="true"
+				data-header="false"
+				data-stream="false"
+				data-show-border="false">
+		  </div>
+		  <br>
+		  <br>
+	 </div>
+</aside>    </section>
+
+<footer id="sub-footer">
+    <div id="footcont" class="clearfix">
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>DATA SEKOLAH</h4>
+	        </div>
+			<div class="list">
+			    <h4>INOROBO ROBOTIC SCHOOL</h4>
+			    <p>Ruko MIM Blok E/2 Soekarno Hatta No.590 Bandung. <br/><br/>
+				<i class="fa fa-phone"></i>  +62 852 942 487 83<br/>
+				<i class="fa fa-envelope"></i>  robot@ternama.net			    </p>
+			</div>
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>KATEGORI</h4>
+	        </div>
+		            	<div class="list">
+	        	<ul class="ul-list clearfix">
+	        		<li><a href="http://localhost/popo/home/category/2">Belajar robotik <span>2</span></a></li><li><a href="http://localhost/popo/home/category/1">lomba robotic <span>1</span></a></li>		        </ul>
+	        </div>
+	        	    
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>ARSIP 2016</h4>
+	        </div>
+				        <div class="list">
+		        <ul class="ul-list clearfix">
+		        	<li><a href="http://localhost/popo/home/archive/07/2016" title="Arsip berita bulan Juli">Juli <span>3</span></a></li>		        </ul>
+	        </div>
+	        		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>TAUTAN</h4>
+	        </div>
+		    		</div>
+	</div>
+		<div id="copyright-wrapper" class="clearfix">
+		    <div class="footcopy">
+			    <div class="copyright">Copyright © 2016 Inorobo Robotic School. All Rights Reserved.</div>
+			    <div class="dev"><span class="eloper">Developed by <a href="http://inorobo.com" target="_blank">Inorobo.com</a></span></div>
+			</div>
+		</div>
+</footer>
+</div>
+</body>
+</html>

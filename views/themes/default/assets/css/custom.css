@@ -1,0 +1,157 @@
+/* Silahkan atur komposisi warna template CMS Sekolahku dengan mengganti kode warna berikut */
+
+/* Pengaturan blok warna background body */
+body {
+  background: #fff;
+}
+
+/* Pengaturan warna background wrapper v1.4.7 */
+#wrapper {
+  background: #fff;
+}
+
+/* Pengaturan blok warna background top header */
+#top-bar {
+  background: #3bf;
+}
+
+/* Pengaturan blok warna background header */
+#primary-header {
+  background: #fff;
+}
+
+/* Pengaturan blok warna background samping kanan kiri tree menu / dropdown menu */
+#fixed-wrapper {
+  background: #1daef2;
+}
+
+/* Pengaturan blok warna background menu */
+#primary-navigator {
+  background:#1daef2;
+}
+
+/* Pengaturan blok warna background tree menu / dropdown menu */
+.tree-menu ul li, .tree-menu li.current, .tree-menu ul ul li, .tree-menu li:hover {
+  background: #003366;
+}
+
+/* Pengaturan blok warna background Kata Motivasi */
+#sub-bar {
+  background: ;
+}
+
+/* Pengaturan blok warna background title slide berita */
+.slides .content {
+  background: #3bf;
+}
+
+/* Konten */
+
+h3.info {
+background: #2D2C2C;
+color: #fff;
+}
+
+/* Pengaturan blok warna sekilas info */
+#sekilas_info {
+background: #ededed;
+}
+
+/* Pengaturan blok warna pengumuman */
+#pengumuman {
+background: #ededed;
+}
+
+/* Pengaturan blok warna berita */
+#prestasi {
+background: #ededed;
+}
+
+/* Pengaturan blok warna copyright */
+#copyright-wrapper {
+  background: #253238;
+}
+
+/* Pengaturan blok warna footer */
+#sub-footer {
+  background: #36474F;
+}
+
+/* Pengaturan background warna sidebar tengah */
+#aside-primary {
+  background: #2ecc71;
+}
+
+#aside-primary .widget-title h4 {
+  background: #34495e;
+}
+
+/* Pengaturan background warna sidebar kanan */
+#aside-secondary {
+  background: #fff;
+}
+
+#aside-secondary .widget {
+background: #f2f2f2;
+}
+
+#aside-secondary .widget-title h4 {
+  background: #e6e6e6;
+}
+
+#aside-secondary .widget-title h4:hover {
+  color: #fff;
+  background: #3bf;
+}
+
+/* Pengaturan background warna widget tab (Pengumuman, Agenda, Sekilas Info) */
+.tab-content {
+  background: #34495e;
+}
+
+/* Pengaturan garis warna widget tab (Pengumuman, Agenda, Sekilas Info) */
+ul.tabs {
+  border-bottom: solid 2px #34495e;
+}
+
+/* Pengaturan garis kiri warna title widget tab (Pengumuman, Agenda, Sekilas Info) */
+ul.tabs li:first-child {
+  border-left: 1px #34495e solid;
+}
+
+/* Pengaturan garis atas dan kanan warna title widget tab (Pengumuman, Agenda, Sekilas Info) */
+ul.tabs li {
+  border-top: 1px #34495e solid;
+  border-right: 1px #34495e solid;
+}
+
+/* Pengaturan background warna title widget tab (Pengumuman, Agenda, Sekilas Info) yang tidak aktif */
+#main-content .widget .tabs li a {
+  color: #fff;
+  background: #20303f;
+}
+
+/* Pengaturan background warna title widget tab (Pengumuman, Agenda, Sekilas Info) yang sedang aktif */
+#main-content .widget .tabs li a.selected {
+  background:#34495e;
+  color: #fff;
+  border: 1px solid #34495e;
+}
+
+/* Pengaturan background hover warna title widget tab (Pengumuman, Agenda, Sekilas Info) ketika cursor didekatkan */
+#main-content .widget .tabs li a:hover {
+  background: #34495e;
+  color: #fff;
+  border: 1px solid #34495e;
+}
+
+/* Pengaturan Background jumlah postingan berita */
+.ul-list li a span {
+background: #ddd;
+color: #444;
+}
+
+.ul-list li:hover span {
+  background: #fff;
+  color: #3bf;
+}
